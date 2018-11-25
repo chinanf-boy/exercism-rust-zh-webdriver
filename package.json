@@ -1,21 +1,21 @@
 {
-  "name": "trywebdriverio",
+  "name": "try-webdriverio-exercism-rust-zh",
   "version": "0.0.1",
-  "description": "",
+  "description": "测试 exercism-rust-zh 网页的 Cargo test 答案运行",
   "main": "index.js",
   "scripts": {
     "test": "wdio ./wdio.conf.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klamping/trywebdriverio.git"
+    "url": "git+https://github.com/chinanf-boy/exercism-rust-zh.git"
   },
-  "author": "Kevin Lamping",
+  "author": "yobrave",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/klamping/trywebdriverio/issues"
+    "url": "https://github.com/chinanf-boy/exercism-rust-zh/issues"
   },
-  "homepage": "https://github.com/klamping/trywebdriverio#readme",
+  "homepage": "https://github.com/chinanf-boy/exercism-rust-zh#readme",
   "dependencies": {
     "chai": "^4.1.2",
     "chai-webdriverio": "^0.4.2",

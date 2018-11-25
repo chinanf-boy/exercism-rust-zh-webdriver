@@ -10,7 +10,7 @@ exercisms-rust-zh 项目的测试，不一定完全成功，存在
 
 ## 开发
 
-- 1. [已用过 node 库`webdriverio`](#简单命令)
+- 1. [已用过 node 库`webdriverio`](#简单命令完成以上安装步骤)
 - 2. 从头开始
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
