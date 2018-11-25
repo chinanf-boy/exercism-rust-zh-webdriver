@@ -1,5 +1,13 @@
 # llever.com/exercisms-rust-zh 自动化测试 Cargo test
 
+exercisms-rust-zh 项目的测试，不一定完全成功，存在
+
+- 游乐场超时
+- 网络不好
+- 杂七杂八
+
+> [无钱搞云测试](http://webdriver.io/guide/usage/cloudservices.html#With-Travis-CI),就这样
+
 ## 开发
 
 - 1. [已用过 node 库`webdriverio`](#简单命令)
@@ -60,3 +68,6 @@ java -jar -Dwebdriver.gecko.driver=./geckodriver selenium-server-standalone-3.5.
 ## 话题
 
 使用自动化框架[webdriverio](https://github.com/webdriverio/webdriverio)
+
+> 此库非，良好的webdriverio测试编码方式，如有需要，请查看[入门套件](https://github.com/klamping/wdio-starter-kit)
+> 主要区别在于，此库缺少`test/**.page.js`的编写，但不可否认是一种很好的测试分隔，主要是我懒而已

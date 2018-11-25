@@ -4,7 +4,7 @@ function addPre(s) {
   return `/exercism-rust-zh/${s}`;
 }
 describe('exercism-rust-zh 0', function() {
-  execises.forEach(function(lianxi) {
+  execises.forEach(function(lianxi) { // 递归
     describe('each link', function() {
       it(`${lianxi} test`, function() {
         browser.url(addPre(lianxi));

@@ -25,5 +25,8 @@
     "wdio-selenium-standalone-service": "0.0.10",
     "wdio-spec-reporter": "^0.1.2",
     "webdriverio": "^4.13.2"
+  },
+  "devDependencies": {
+    "wdio-tap-reporter": "0.0.5"
   }
 }
